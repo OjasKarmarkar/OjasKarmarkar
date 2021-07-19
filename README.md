@@ -55,8 +55,8 @@ A self-taught, passionate app dev🎯 from India🌎. I love to work with new te
 
 ## 🏆 Github Status
 
-<img  src="https://github-readme-stats.vercel.app/api?username=OjasKarmarkar&show_icons=true&hide_border=true&theme=radical" width="45%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=OjasKarmarkar&theme=radical" width="45%" >
+<img  src="https://github-readme-stats.vercel.app/api?username=OjasKarmarkar&show_icons=true&hide_border=true&theme=gotham" width="45%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=OjasKarmarkar&theme=gotham" width="45%" >
 
 
 <br /> <br />
